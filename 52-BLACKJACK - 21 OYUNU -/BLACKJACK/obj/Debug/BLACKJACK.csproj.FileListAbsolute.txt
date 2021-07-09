@@ -1,0 +1,20 @@
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csprojAssemblyReference.cache
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.Form1.resources
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.Properties.Resources.resources
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csproj.GenerateResource.cache
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.exe.config
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.exe
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\bin\Debug\BLACKJACK.pdb
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.exe
+C:\Users\msı\source\repos\BLACKJACK\BLACKJACK\obj\Debug\BLACKJACK.pdb
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\52-BLACKJACK - 21 OYUNU (yeni)\BLACKJACK\bin\Debug\BLACKJACK.exe.config
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\52-BLACKJACK - 21 OYUNU (yeni)\BLACKJACK\bin\Debug\BLACKJACK.exe
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\52-BLACKJACK - 21 OYUNU (yeni)\BLACKJACK\bin\Debug\BLACKJACK.pdb
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\52-BLACKJACK - 21 OYUNU (yeni)\BLACKJACK\obj\Debug\BLACKJACK.csprojAssemblyReference.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\52-BLACKJACK - 21 OYUNU (yeni)\BLACKJACK\obj\Debug\BLACKJACK.Form1.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\52-BLACKJACK - 21 OYUNU (yeni)\BLACKJACK\obj\Debug\BLACKJACK.Properties.Resources.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\52-BLACKJACK - 21 OYUNU (yeni)\BLACKJACK\obj\Debug\BLACKJACK.csproj.GenerateResource.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\52-BLACKJACK - 21 OYUNU (yeni)\BLACKJACK\obj\Debug\BLACKJACK.csproj.CoreCompileInputs.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\52-BLACKJACK - 21 OYUNU (yeni)\BLACKJACK\obj\Debug\BLACKJACK.exe
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# form\52-BLACKJACK - 21 OYUNU (yeni)\BLACKJACK\obj\Debug\BLACKJACK.pdb
